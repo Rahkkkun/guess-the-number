@@ -9,7 +9,7 @@ A simple, interactive number-guessing game built with Java! Challenge yourself t
 - **Limited Attempts:** You get **5 chances** to guess the number correctly.
 - **Fun Gameplay:** Test your intuition and have fun guessing!
 
----
+--
 ## 🛠️ How It Works
 1. The program generates a random number between **1** and **10**.
 2. You get **5 attempts** to guess the number.
