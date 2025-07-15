@@ -1,5 +1,4 @@
 # 🎮 Guess The Number Game
-
 A simple, interactive number-guessing game built with Java! Challenge yourself to guess the correct number within a limited number of attempts.
 
 ---
